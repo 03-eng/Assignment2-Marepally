@@ -1,5 +1,5 @@
 # Aparna reddy Marepally
-###### Volleyball
+## Volleyball
 
 **Communication to the physical benefits of staying healthy and active, here are some of the things you can expect to gain by playing volleyball**
 
