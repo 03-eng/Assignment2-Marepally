@@ -24,7 +24,7 @@ Participating in any sport has benefits, but volleyball offers the opportunity f
 
 -----------
 
-# The countries i want vist.
+# The countries i want to vist.
 
 The countries i want vist,reasons and no.of days
 |    Name of countries   |   Reason to vist          |    No.of days     |
@@ -33,6 +33,16 @@ The countries i want vist,reasons and no.of days
 |     Island        |   They are beautyful island   |  15     |
 |   Switzerland     |   Beautyful nature    | 30  |
 |   pairs         |  Peaceful place  |  20   |
+
+-----------
+
+# Funny Quotes
+
+>An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her ***George Owell***
+>>"You're never rich enough if you can be richer."-***Jules Verne***
+
+
+
 
  
 
