@@ -20,9 +20,21 @@ Participating in any sport has benefits, but volleyball offers the opportunity f
     - David
     - Goliath
 
-[AboutMe](https://github.com/03-eng/Assignment2-Marepally/blob/main/WhatsApp%20Image%202023-02-01%20at%2012.00.57%20AM.jpeg) 
+[AboutMe](https://github.com/03-eng/Assignment2-Marepally/blob/main/WhatsApp%20Image%202023-02-01%20at%2012.00.57%20AM.jpeg)
 
+-----------
 
+# The countries i want vist.
+
+The countries i want vist,reasons and no.of days
+|    Name of countries   |   Reason to vist          |    No.of days     |
+| --------------        |   --------------      |     ------------   |
+|      Canada        | They are beautyful waterfalls | 20   |
+|     Island        |   They are beautyful island   |  15     |
+|   Switzerland     |   Beautyful nature    | 30  |
+|   pairs         |  Peaceful place  |  20   |
+
+ 
 
 
 
