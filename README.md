@@ -41,6 +41,27 @@ The countries i want vist,reasons and no.of days
 >An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her ***George Owell***
 >>"You're never rich enough if you can be richer."-***Jules Verne***
 
+------------
+
+# Code fencing
+
+How do I copy lines of code from vim into a google doc?
+(https://stackoverflow.com/questions/75315859/how-do-i-copy-lines-of-code-from-vim-into-a-google-doc)
+````
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+[Codelink](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+
+
 
 
 
